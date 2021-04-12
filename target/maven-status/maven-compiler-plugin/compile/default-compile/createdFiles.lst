@@ -1,0 +1,10 @@
+icici\FlightInfoExResponse$FlightInfoExResult$Flight.class
+icici\FleetArrivals.class
+icici\FleetArrivedResponse$FleetArrivedResult.class
+icici\FleetArrivedResponse$FleetArrivedResult$Arrival.class
+icici\FlightInfoExResponse.class
+icici\KafkaFlightRecord.class
+icici\FleetArrivals$CustomAuthenticator.class
+icici\FlightInfoExResponse$FlightInfoExResult.class
+icici\FleetArrivedResponse.class
+icici\FleetArrivals$Task.class
